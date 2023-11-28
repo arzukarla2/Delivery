@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anybody:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-red-hat-display: "Red Hat Display";
+  --font-poppins: Poppins;
+  --font-anybody: Anybody;
+  --font-red-hat-text: "Red Hat Text";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-3xl: 22px;
+  --font-size-29xl: 48px;
+  --font-size-26xl: 45px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --neutrals-4: #777e90;
+  --color-slategray-100: rgba(119, 126, 144, 0.3);
+  --color-mediumaquamarine: #3cbd96;
+  --color-darkslategray: #204945;
+  --neutrals-2: #23262f;
+  --color-honeydew: #e3f9e7;
+  --color-paleturquoise: #c1eadd;
+  --color-dimgray: #5a5f6a;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-10xs: 3px;
+  --br-xl: 20px;
+  --br-mini: 15px;
+  --br-6xl: 25px;
+  --br-2xl: 21px;
+  --br-17xl: 36px;
+}
