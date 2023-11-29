@@ -1,7 +1,7 @@
 
   # Delivery
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+[![del.png](https://i.postimg.cc/fbQqGYwV/del.png)](https://postimg.cc/bZLRbDSP)
 
   To preview and run the project on your device:
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
